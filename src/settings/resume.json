@@ -1,61 +1,55 @@
 {
     "basics": {
-        "name": "Mark Tan",
-        "label": "Web Developer",
-        "email": "markcmtan@gmail.com",
-        "phone": "(XXX) XXX-XXXX",
+        "name": "Benjamin Silva",
+        "label": "Android Developer",
+        "email": "benhacktech@gmail.com",
+        "phone": "(+57) 3128045673",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
-        "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "job1": "Android",
+        "job2": "DevOps",
+        "description": "Hello! I'm Benjamin! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
         "summary": "based in Angeles, Philippines.",
         "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
+        "url": "https://benhack.tech/",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "city": "Cali",
+            "country": "Colombia",
+            "countryCode": "CO",
+            "region": "Valle del Cauca"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "benhacktech@gmail.com",
+                "url": "mailto:benhacktech@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "benss",
+                "url": "https://linkedin.com/in/benss/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "ben331",
+                "url": "https://github.com/ben331",
                 "x_icon": "fab fa-github"
             },
             {
-                "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
-                "x_icon": "fab fa-gitlab"
+                "network": "Instagram",
+                "username": "@benhacktech",
+                "url": "https://instagram.com/benhacktech",
+                "x_icon": "fab fa-instagram"
             },
             {
-                "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
-                "x_icon": "fab fa-telegram-plane"
-            },
-            {
-                "network": "Discord",
-                "username": "taniyow#9142",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
+                "network": "YouTube",
+                "username": "@Benhacktech",
+                "url": "https://youtube.com/@Benhacktech",
+                "x_icon": "fab fa-youtube"
             }
         ]
     },
@@ -83,11 +77,11 @@
     ],
     "education": [
         {
-            "institution": "University",
-            "area": "Software Development",
+            "institution": "ICESI University",
+            "area": "Telematics Engineer",
             "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "startDate": "2019-01-8",
+            "endDate": "2013-02-24",
             "gpa": "4.0",
             "courses": ["DB1101 - Basic SQL"]
         }
