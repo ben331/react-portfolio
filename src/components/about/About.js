@@ -20,16 +20,14 @@ const useStyles = makeStyles((theme) => ({
 export const About = () => {
   const classes = useStyles();
   const greetings = "Hello there!";
-  const aboutme = `I'm ${FirstName} ${LastName}, a multidisciplinary 
-                  designer & developer. I'm always down for something new and challenging!
-                  I'm here to help you create beautifully formatted websites. 
-                  My projects mostly includes web development.`;
+  const aboutme = `I'm ${FirstName} ${LastName}, a Telematics engineer excited to use my creativity and leadership in new challenges about
+  mobile development projects as well as DevOps projects. Currently I focus on high-quality, maintainable and scalable Android development.`;
 
   return (
     <section id="about">
       <Container component="main" className={classes.main} maxWidth="md">
         <div className="about">
-          <div className="_img"
+        <div className="_img"
             style={{ 
               background: "url(" + profile + ")",
               backgroundSize: 'contain',
